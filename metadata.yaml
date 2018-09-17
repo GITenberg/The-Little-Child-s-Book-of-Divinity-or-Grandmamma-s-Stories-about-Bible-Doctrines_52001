@@ -1,5 +1,8 @@
 _repo: The-Little-Child-s-Book-of-Divinity-or-Grandmamma-s-Stories-about-Bible-Doctrines_52001
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52001-h/images/cover.jpg
 creator:
   author:
     agent_name: Macduff, John R. (John Ross)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '8898'
     url: http://www.gutenberg.org/2009/agents/8898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52001#The-Little-Child-s-Book-of-Divinity-or-Grandmamma-s-Stories-about-Bible-Doctrines
 gutenberg_issued: '2016-05-05'
 gutenberg_type: Text
 identifiers:
